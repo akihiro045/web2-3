@@ -1,8 +1,8 @@
-@charset "utf-8";
+@charset "UTF-8";
 .cat{
     font-size:70%;
   }
-  .maile{
+  .male{
     color:#2793a7;
   }
   .female{
