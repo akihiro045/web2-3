@@ -9,47 +9,47 @@
     color: #df972f;
   }
 body{
-    background-color:#fbf9cc;/**背景色を変える/
+    background-color: #fbf9cc;/**背景色を変える/
     buckground-image: url(https://3.bp.blogspot.com/-YtrWSqttYsQ/WM9XglY6dtI/AAAAAAABCrE/FKxvLU_Dllkg7PN1RV8xSys-7M86MS1vwCLcB/s800/bg_digital_pattern_green.jpg);
     background-repeat: no-repeat;
     }
   h1{
-    font-size:1.75em;
-    color:#3399cc;
-    text-aligin:center;
+    font-size: 1.75em;
+    color: #3399cc;
+    text-aligin: center;
     }
     h1 a{
-    color:#d0e35b;
+    color: #d0e35b;
     }
   h2{
-    font-size:1.25em;
-    color:#ffffff;
-    border:#94c8b1 1px dotted;/*境界線*/
-    border-left:#d0e35b 10px solid;
-    margin-bottom:0;/*隣り合う要素との間隔*/
-    padding:5px 20px;
+    font-size: 1.25em;
+    color: #ffffff;
+    border: #94c8b1 1px dotted;/*境界線*/
+    border-left: #d0e35b 10px solid;
+    margin-bottom: 0;/*隣り合う要素との間隔*/
+    padding: 5px 20px;
     }
   p{
-    font-size:0.8em;
-    color:#333333;
-    line-height:1.75em;
+    font-size: 0.8em;
+    color: #333333;
+    line-height: 1.75em;
     }
   a{
-    color:#df4839;
+    color: #df4839;
     }
   a:hover{
-    color:#ff705b;/*マウスが乗った時だけ特別な色*/
+    color: #ff705b;/*マウスが乗った時だけ特別な色*/
     }
   li{
-  font-size:0.8em;
-  background-color:#3399cc;/*段落の文字の背景の色だけが変わる*/
-  color:#333333;
+  font-size: 0.8em;
+  background-color: #3399cc;/*段落の文字の背景の色だけが変わる*/
+  color: #333333;
   }
   address{
-    font-size:0.75em;
-    font-style:italic;
+    font-size: 0.75em;
+    font-style: italic;
   }
   #lead{
-    border-top:#6fbb9a 1px dotted;
+    border-top: #6fbb9a 1px dotted;
     text-align: center;
   }
